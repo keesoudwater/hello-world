@@ -1,5 +1,5 @@
 # hello-world
-This is my first GitHub repository
+This is my first GitHub branche
 
 This is text inserted in the readme.md file on the first branch unther the "master branch".
 See the difference?
